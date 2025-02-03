@@ -66,8 +66,8 @@
         <p>Our love story is better than any Baldur’s Gate quest.</p>
         <p>Without you, my heart feels like Astarion in sunlight.</p>
         
-        <!-- Funny Baldur’s Gate meme -->
-        <img class="meme" src="https://i.imgur.com/7bLPNJo.jpeg" alt="Baldur's Gate meme">
+        <!-- Funny Baldur’s Gate meme (working link) -->
+        <img class="meme" src="https://i.imgur.com/2Z5NyU4.jpeg" alt="Baldur's Gate meme">
         
         <div class="buttons">
             <button class="yes" onclick="alert('YES! Our romance is now a critical success! 🎲❤️')">Yes! (Roll Persuasion)</button>
